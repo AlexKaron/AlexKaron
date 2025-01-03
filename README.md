@@ -9,6 +9,8 @@
 - I'm a fan of Harry Potter
 - I have three wonderful cats that have their own Instagram ^^
 
+You can check my platform game:
+https://alexkaron.itch.io/cats-adventure
 <!---
 AlexKaron/AlexKaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
